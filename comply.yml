@@ -1,0 +1,5 @@
+name: cbrix
+filePrefix: cbrix
+tickets:
+  jira: {}
+approvedBranch: ""
