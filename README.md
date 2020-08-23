@@ -1,6 +1,6 @@
-# cbrix Compliance Program
+# CBrix Compliance Program
 
-This repository consolidates all documents related to the cbrix Compliance Program.
+This repository consolidates all documents related to the CBrix Compliance Program.
 
 # Structure
 

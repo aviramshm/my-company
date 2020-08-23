@@ -1,5 +1,5 @@
-name: cbrix
-filePrefix: cbrix
+name: CBrix
+filePrefix: CBrix
 tickets:
   jira: {}
 approvedBranch: ""

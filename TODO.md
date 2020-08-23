@@ -1,4 +1,4 @@
-# cbrix Compliance Program
+# CBrix Compliance Program
 
 High-level TODO created by [comply](https://github.com/strongdm/comply)
 
